@@ -1,0 +1,11 @@
+Change Component DesignItemId : Designator=C3_ECG Old DesignItemId=Cap New DesignItemId=VP40BA181KA
+Change Component Footprint: Designator=C1_ECG Old Footprint=RAD-0.3 New Footprint=VP40
+Change Component Footprint: Designator=C1_EEG Old Footprint=RAD-0.3 New Footprint=VP40
+Change Component Footprint: Designator=C2_ECG Old Footprint=RAD-0.3 New Footprint=VP40
+Change Component Footprint: Designator=C2_EEG Old Footprint=RAD-0.3 New Footprint=VP40
+Change Component Footprint: Designator=C3_ECG Old Footprint=RAD-0.3 New Footprint=VP40
+Change Component Footprint: Designator=C3_EEG Old Footprint=RAD-0.3 New Footprint=VP40
+Change Component Footprint: Designator=C4_ECG Old Footprint=RAD-0.3 New Footprint=VP40
+Change Component Footprint: Designator=C4_EEG Old Footprint=RAD-0.3 New Footprint=VP40
+Change Component Comment : Designator=C3_ECG Old Comment=Cap New Comment=15nF
+Added Room: Name=Pre-Amp_2017

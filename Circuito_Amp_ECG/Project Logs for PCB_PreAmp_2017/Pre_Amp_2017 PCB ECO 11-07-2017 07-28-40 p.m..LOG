@@ -1,0 +1,4 @@
+Change Component DesignItemId : Designator=C? Old DesignItemId=VP31BA1R0DB New DesignItemId=VP40BA181KA
+Change Component Footprint: Designator=C? Old Footprint=VP31-2.5 New Footprint=VP40
+Change Component Comment : Designator=C? Old Comment=VP31BA1R0DB New Comment=VP40BA181KA
+Added Room: Name=Pre-Amp_2017

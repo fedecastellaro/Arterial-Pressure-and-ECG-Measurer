@@ -1,0 +1,30 @@
+Removed Member From Class: ClassName=Pre-Amp_2017 Member=C?
+Change Component DesignItemId : Designator=C1_ECG Old DesignItemId=Cap New DesignItemId=VP40BA181KA
+Change Component DesignItemId : Designator=C1_EEG Old DesignItemId=Cap New DesignItemId=VP40BA181KA
+Change Component DesignItemId : Designator=C2_ECG Old DesignItemId=Cap New DesignItemId=VP40BA181KA
+Change Component DesignItemId : Designator=C2_EEG Old DesignItemId=Cap New DesignItemId=VP40BA181KA
+Change Component DesignItemId : Designator=C3_EEG Old DesignItemId=Cap New DesignItemId=VP40BA181KA
+Change Component DesignItemId : Designator=C4_ECG Old DesignItemId=Cap New DesignItemId=VP40BA181KA
+Change Component DesignItemId : Designator=C4_EEG Old DesignItemId=Cap New DesignItemId=VP40BA181KA
+Change Component Comment : Designator=C1_ECG Old Comment=Cap New Comment=2.7nF
+Change Component Comment : Designator=C3_EEG Old Comment=Cap New Comment=2.7nF
+Change Component Comment : Designator=C2_ECG Old Comment=Cap New Comment=39nF
+Change Component Comment : Designator=C2_EEG Old Comment=Cap New Comment=39nF
+Change Component Comment : Designator=C4_ECG Old Comment=Cap New Comment=39nF
+Change Component Comment : Designator=C4_EEG Old Comment=Cap New Comment=39nF
+Change Component Comment : Designator=C1_EEG Old Comment=Cap New Comment=470nF
+Change Component Description : Designator=C1_ECG Old Description=Capacitor New Description=Dipped Radial Multilayer Ceramic Capacitor COG (NPO): 180pF, 50/63V
+Change Component Description : Designator=C1_EEG Old Description=Capacitor New Description=Dipped Radial Multilayer Ceramic Capacitor COG (NPO): 180pF, 50/63V
+Change Component Description : Designator=C2_ECG Old Description=Capacitor New Description=Dipped Radial Multilayer Ceramic Capacitor COG (NPO): 180pF, 50/63V
+Change Component Description : Designator=C2_EEG Old Description=Capacitor New Description=Dipped Radial Multilayer Ceramic Capacitor COG (NPO): 180pF, 50/63V
+Change Component Description : Designator=C3_EEG Old Description=Capacitor New Description=Dipped Radial Multilayer Ceramic Capacitor COG (NPO): 180pF, 50/63V
+Change Component Description : Designator=C4_ECG Old Description=Capacitor New Description=Dipped Radial Multilayer Ceramic Capacitor COG (NPO): 180pF, 50/63V
+Change Component Description : Designator=C4_EEG Old Description=Capacitor New Description=Dipped Radial Multilayer Ceramic Capacitor COG (NPO): 180pF, 50/63V
+Change Component Library : Designator=C1_ECG Old Library=Miscellaneous Devices.IntLib New Library=Vishay Vitramon Ceramic Dipped Capacitor.IntLib
+Change Component Library : Designator=C1_EEG Old Library=Miscellaneous Devices.IntLib New Library=Vishay Vitramon Ceramic Dipped Capacitor.IntLib
+Change Component Library : Designator=C2_ECG Old Library=Miscellaneous Devices.IntLib New Library=Vishay Vitramon Ceramic Dipped Capacitor.IntLib
+Change Component Library : Designator=C2_EEG Old Library=Miscellaneous Devices.IntLib New Library=Vishay Vitramon Ceramic Dipped Capacitor.IntLib
+Change Component Library : Designator=C3_EEG Old Library=Miscellaneous Devices.IntLib New Library=Vishay Vitramon Ceramic Dipped Capacitor.IntLib
+Change Component Library : Designator=C4_ECG Old Library=Miscellaneous Devices.IntLib New Library=Vishay Vitramon Ceramic Dipped Capacitor.IntLib
+Change Component Library : Designator=C4_EEG Old Library=Miscellaneous Devices.IntLib New Library=Vishay Vitramon Ceramic Dipped Capacitor.IntLib
+Added Room: Name=Pre-Amp_2017

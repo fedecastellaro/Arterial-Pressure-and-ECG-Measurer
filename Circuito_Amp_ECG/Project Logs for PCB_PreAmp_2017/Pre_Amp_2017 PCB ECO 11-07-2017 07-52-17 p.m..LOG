@@ -1,0 +1,16 @@
+Change Component DesignItemId : Designator=C6 Old DesignItemId=Cap New DesignItemId=VP40BA181KA
+Change Component DesignItemId : Designator=+C_filtro_RLD Old DesignItemId=VP31BA820KC New DesignItemId=VP40BA181KA
+Change Component DesignItemId : Designator=-C_filtro_RLD Old DesignItemId=VP31BA820KC New DesignItemId=VP40BA181KA
+Change Component DesignItemId : Designator=C_filtro_ECG_3.3 Old DesignItemId=VP31BA820KC New DesignItemId=VP40BA181KA
+Change Component DesignItemId : Designator=C_filtro_ECG_-3.3 Old DesignItemId=VP31BA820KC New DesignItemId=VP40BA181KA
+Change Component DesignItemId : Designator=C_filtro_EEG_3.3 Old DesignItemId=VP31BA820KC New DesignItemId=VP40BA181KA
+Change Component DesignItemId : Designator=C_filtro_EEG_-3.3 Old DesignItemId=VP31BA820KC New DesignItemId=VP40BA181KA
+Change Component Footprint: Designator=C6 Old Footprint=6-0805_M New Footprint=VP40
+Change Component Footprint: Designator=+C_filtro_RLD Old Footprint=VP31-3.2 New Footprint=VP40
+Change Component Footprint: Designator=-C_filtro_RLD Old Footprint=VP31-3.2 New Footprint=VP40
+Change Component Footprint: Designator=C_filtro_ECG_3.3 Old Footprint=VP31-3.2 New Footprint=VP40
+Change Component Footprint: Designator=C_filtro_ECG_-3.3 Old Footprint=VP31-3.2 New Footprint=VP40
+Change Component Footprint: Designator=C_filtro_EEG_3.3 Old Footprint=VP31-3.2 New Footprint=VP40
+Change Component Footprint: Designator=C_filtro_EEG_-3.3 Old Footprint=VP31-3.2 New Footprint=VP40
+Change Component Comment : Designator=C6 Old Comment=Cap New Comment=1nF
+Added Room: Name=Pre-Amp_2017
