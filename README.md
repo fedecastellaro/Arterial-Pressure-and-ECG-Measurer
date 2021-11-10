@@ -15,6 +15,6 @@ The output of the circuit, after the amplification and filtering of the signal i
 ![im3](https://user-images.githubusercontent.com/41343686/141187661-f9bce217-2363-4e54-8e23-5924098daa02.jpg)   ![im4](https://user-images.githubusercontent.com/41343686/141187842-afaac1bb-d346-4665-9853-60aeaa37588d.jpg)
 
 
-##Disclaimer:
+## Disclaimer:
 
 As shown, a pressure sensor was connected to the final circuit to measure the shape of the blood pressure signal. However, with another suitably chosen sensor, it is possible to measure the ECG signal without modifying the base circuit.
